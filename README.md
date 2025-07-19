@@ -24,5 +24,5 @@ The stopwatch includes key features like:
 
 ```bash
 📁 PRODIGY_WD_02/
-├── index.html   # Main HTML file (includes CSS and JS)
+├── Task02.html   # Main HTML file (includes CSS and JS)
 ├── README.md    # Project documentation
